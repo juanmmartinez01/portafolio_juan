@@ -20,42 +20,42 @@ const skillItem = [
     desc: "User Interface",
   }, */
   {
-    imgSrc: "/images/javascript.svg",
+    imgSrc: "public/images/javascript.svg",
     label: "JavaScript",
     desc: "Interaction",
   },
   {
-    imgSrc: "/images/react.svg",
+    imgSrc: "public/images/react.svg",
     label: "React",
     desc: "Framework",
   },
   {
-    imgSrc: "/images/php.png",
+    imgSrc: "public/images/php.png",
     label: "PHP",
     desc: "service",
   },
   {
-    imgSrc: "/images/codeigniter.png",
+    imgSrc: "public/images/codeigniter.png",
     label: "CodeIgniter",
     desc: "PHP Framework",
   },
   {
-    imgSrc: "/images/Python.png",
+    imgSrc: "public/images/Python.png",
     label: "Python",
     desc: "Anlaytics",
   },
   {
-    imgSrc: "/images/powerbi.png",
+    imgSrc: "public/images/powerbi.png",
     label: "Power BI",
     desc: "User Interface",
   },
   {
-    imgSrc: "/images/googlecolab.png",
+    imgSrc: "public/images/googlecolab.png",
     label: "Google Colab",
     desc: "Processing",
   },
   {
-    imgSrc: "/images/lookerstudio.png",
+    imgSrc: "public/images/lookerstudio.png",
     label: "Looker Studio",
     desc: "User Interface",
   },
