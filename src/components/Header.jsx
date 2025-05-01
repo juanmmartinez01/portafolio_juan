@@ -22,7 +22,7 @@ const Header = () => {
             <div className="max-w-screem-2xl mx-auto w-full px-4 flex items-center justify-between md:px-6 md:grid md:grid-cols-[1fr,3fr,1fr]">
                 <h1>
                     <a href="" className="logo">
-                        <img src="/images/logo.svg" width={40} height={40} alt="Juan Martinez"/>
+                        <img src="public/images/logo.svg" width={40} height={40} alt="Juan Martinez"/>
                     </a>
                 </h1>
                 <div className="relative md:justify-self-center">
