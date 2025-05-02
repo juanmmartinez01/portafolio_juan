@@ -13,19 +13,19 @@ const works = [
     imgSrc: "../portafolio_juan/images/netflixProyect.png",
     title: "Netflix dashboard analitics",
     tags: ["Tablero", "Estadisticas", "Graficas", "Power BI", "DAX","Netflix"],
-    projectLink: "https://app.powerbi.com/reportEmbed?reportId=50f476cf-92a3-480a-85f7-f11e61b951cd&autoAuth=true&ctid=6ca34ae1-466f-44bc-a7aa-0ac5a78c61b1",
+    projectLink: "../portafolio_juan/Archivos/Amazon.Proyect.pdf",
   },
   {
     imgSrc: "../portafolio_juan/images/AmazonProyect.png",
     title: "Amazon dashboard analitics",
     tags: ["Tablero", "Estadisticas", "Graficas", "Power BI", "DAX","Amazon"],
-    projectLink: "https://app.powerbi.com/reportEmbed?reportId=6eb726c2-43a5-44f0-81ee-8cd9cbbee26a&autoAuth=true&ctid=6ca34ae1-466f-44bc-a7aa-0ac5a78c61b1",
+    projectLink: "../portafolio_juan/Archivos/Netflix_Proyect.pdf",
   },
   {
     imgSrc: "../portafolio_juan/images/SpotifyProyect.png",
     title: "Spotify dashboard analitics",
     tags: ["Tablero", "Estadisticas", "Graficas", "Power BI", "DAX","Spotify"],
-    projectLink: "https://app.powerbi.com/reportEmbed?reportId=87c14ec3-2faf-43c9-811d-0f614afaf2b2&autoAuth=true&ctid=6ca34ae1-466f-44bc-a7aa-0ac5a78c61b1",
+    projectLink: "../portafolio_juan/Archivos/Spotify_Proyect.pdf",
   }
   /* {
     imgSrc: "../portafolio_juan/images/project-1.jpg",
