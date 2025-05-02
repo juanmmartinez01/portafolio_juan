@@ -13,13 +13,13 @@ const works = [
     imgSrc: "../portafolio_juan/images/netflixProyect.png",
     title: "Netflix dashboard analitics",
     tags: ["Tablero", "Estadisticas", "Graficas", "Power BI", "DAX","Netflix"],
-    projectLink: "../portafolio_juan/Archivos/Amazon.Proyect.pdf",
+    projectLink: "../portafolio_juan/Archivos/Netflix_Proyect.pdf",
   },
   {
     imgSrc: "../portafolio_juan/images/AmazonProyect.png",
     title: "Amazon dashboard analitics",
     tags: ["Tablero", "Estadisticas", "Graficas", "Power BI", "DAX","Amazon"],
-    projectLink: "../portafolio_juan/Archivos/Netflix_Proyect.pdf",
+    projectLink: "../portafolio_juan/Archivos/Amazon.Proyect.pdf",
   },
   {
     imgSrc: "../portafolio_juan/images/SpotifyProyect.png",
