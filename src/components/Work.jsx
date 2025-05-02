@@ -19,7 +19,7 @@ const works = [
     imgSrc: "../portafolio_juan/images/AmazonProyect.png",
     title: "Amazon dashboard analitics",
     tags: ["Tablero", "Estadisticas", "Graficas", "Power BI", "DAX","Amazon"],
-    projectLink: "../portafolio_juan/Archivos/Amazon.Proyect.pdf",
+    projectLink: "../portafolio_juan/Archivos/Amazon_Proyect.pdf",
   },
   {
     imgSrc: "../portafolio_juan/images/SpotifyProyect.png",
